@@ -103,3 +103,14 @@ footer {
     padding: 39px;
 
 }
+
+footer a{
+    color:#FFFFFF;
+}
+
+footer .RRSS{
+    font-size:15px;
+    margin-top:20px;
+    margin-bottom:10px;
+    font-weight:300;
+}
