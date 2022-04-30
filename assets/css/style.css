@@ -105,8 +105,14 @@ footer {
 }
 
 footer a{
-    color:#FFFFFF;
-}
+    text-decoration: none;
+    color: white;
+    }
+
+footer a:hover{
+    background-color: #1E1A13;
+    color: gold;	
+    }
 
 footer .RRSS{
     font-size:15px;
@@ -114,3 +120,4 @@ footer .RRSS{
     margin-bottom:10px;
     font-weight:300;
 }
+
