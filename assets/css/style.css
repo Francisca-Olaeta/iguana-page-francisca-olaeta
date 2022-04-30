@@ -109,7 +109,15 @@ footer a{
     color: white;
     }
 
-a:hover{
-    background-color: grey;
+footer a:hover{
+    background-color: #1E1A13;
     color: gold;	
     }
+
+footer .RRSS{
+    font-size:15px;
+    margin-top:20px;
+    margin-bottom:10px;
+    font-weight:300;
+}
+
