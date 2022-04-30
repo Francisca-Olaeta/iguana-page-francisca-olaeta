@@ -103,3 +103,13 @@ footer {
     padding: 39px;
 
 }
+
+footer a{
+    text-decoration: none;
+    color: white;
+    }
+
+a:hover{
+    background-color: grey;
+    color: gold;	
+    }
